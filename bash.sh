@@ -10,6 +10,5 @@ Y
 python3 hackingtool.py
 cd
 figlet you need to install 1-17 to save space we will not install all of them Right now 
-git clone https://github.com/FajarTheGGman/F-Tools
 figlet More Tools soon 
 figlet ROU
